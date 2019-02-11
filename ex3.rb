@@ -24,4 +24,4 @@ puts "Is it greater?", 5 > -2
 puts "Is it greater or equal?", 5 >= -2
 puts "Is it less or equal?", 5<= -2
 
-
+puts "The years between WW1 and WW2 number?", 1939 - 1918
