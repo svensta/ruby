@@ -25,3 +25,5 @@ puts "Is it greater or equal?", 5 >= -2
 puts "Is it less or equal?", 5<= -2
 
 puts "The years between WW1 and WW2 number?", 1939 - 1918
+puts "How old was I in 1997?", 1997 - 1976
+puts "Average sibling age at this time is", 139 / 3
