@@ -15,3 +15,5 @@ puts "There will be #{CARS_NOT_DRIVEN} empty cars today."
 puts "We can transport #{CARPOOL_CAPACITY} people today."
 puts "We have #{PASSENGERS} passengers to carpool today'"
 puts "We need to put about #{AVERAGE_PASSENGERS_PER_CAR} in each car."
+
+puts "Indy 500"
