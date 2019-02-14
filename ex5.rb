@@ -16,3 +16,7 @@ puts "He has got %s eyes and %s hair." % [MY_EYES, MY_HAIR]
 puts "His teeth are %s most of the time." % MY_TEETH
 
 puts "If I add %d, %d and %d I get %d." %[MY_AGE, MY_HEIGHT, MY_WEIGHT, MY_AGE + MY_HEIGHT + MY_WEIGHT]
+
+COCK = 12
+CONVERSION = 2.54
+puts "My %d inch penis (when limp btw) is just over %d metric centimeters" %[COCK, COCK * CONVERSION]
