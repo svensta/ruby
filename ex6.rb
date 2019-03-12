@@ -18,3 +18,5 @@ puts joke_evaluation
 
 w = "this is the left side of..."
 e = "a string with a right side"
+
+puts w + e
