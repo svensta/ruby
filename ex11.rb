@@ -26,12 +26,11 @@ puts "#{T1},#{T2},#{T3},#{T4},#{T5},#{T6}"
 
 TOTAL = T1 + T2 + T3 + T4 + T5 + T6 
 TOTAL2 = 100 + 100 + 100 + 100 + 100 + 100 
-
+AVERAGE = TOTAL / 6
 
 puts "#{TOTAL2} is a perfect score!"
 puts "%d is my sorry ass score!" % [ T1 + T2 + T3 + T4 + T5 + T6 ]  
 puts "#{TOTAL} is the bottom line"  
 
 puts "Total score for that round is #{TOTAL}"
-
-
+puts "Average target score is #{AVERAGE}"
