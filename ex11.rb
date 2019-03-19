@@ -4,7 +4,7 @@ print "How old are you? "
 AGE = gets.chomp()
 print "How tall are you? "
 HEIGHT = gets.chomp()
-print "How much do you weigh "
+print "How much do you weigh? "
 WEIGHT = gets.chomp()
 
 puts "So you are #{AGE} years old, #{HEIGHT} tall and weight #{WEIGHT}"
