@@ -14,3 +14,4 @@ puts "Anything extra? "
 LAST = STDIN.gets.chomp()
 
 puts "Yes, #{LAST}"
+print "Finished\n"
