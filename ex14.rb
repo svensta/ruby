@@ -24,4 +24,3 @@ Alright, so you said #{LIKES} about me.
 You live in #{LIVES}. Wherever that may be.
 You claim to have a #{COMPUTER} too. Nice"
 MESSAGE
-
